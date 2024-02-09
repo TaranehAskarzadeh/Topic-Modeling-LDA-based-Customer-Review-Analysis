@@ -29,6 +29,11 @@ Latent Dirichlet Allocation (LDA) is a generative statistical model that explain
 - Interactive visualization of topics using pyLDAvis for easy interpretation.
 - Coherence score evaluation to assess the quality of the topic modeling.
  
+## Data Collection:
+Using Reddit's API for predicting Posts
+
+In this project I have collected data uding Reddit's API. The goal for this project is to using NLP and Machine Leaning models, build a binary predictor to determine which subreddit a given post is coming from.
+
 ## Step 1: Load the Data
 First, load the data from the Excel file into a pandas DataFrame. 
 
