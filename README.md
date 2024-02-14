@@ -49,4 +49,6 @@ Train the LDA model using the corpus and dictionary prepared in the previous ste
 ## Step 5: Visualizing the Topics
 Use pyLDAvis to visualize the topics for better understanding and interpretation.
 
+![image](https://github.com/TaranehAskarzadeh/Topic-Modeling-LDA-based-Customer-Review-Analysis/assets/65934906/9d68c565-4a88-4025-908c-944b5943fe61)
+
 
