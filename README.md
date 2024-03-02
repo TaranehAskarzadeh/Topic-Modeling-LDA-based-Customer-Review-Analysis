@@ -41,15 +41,12 @@ This project utilized a dataset extracted from Reddit, focusing on customer revi
 - Python (with pandas library for data manipulation and export)
   
 
-1. Reddit API Setup
+1. Reddit API Setup: 
 Made a Reddit account. Then, registered  application on Reddit's app registration page to obtain client_id and client_secret. 
 
-2. Select Subreddits
-r/reviewthis
-r/product_reviews
-r/buyitforlife
+2. Select Subreddits: Got the data for two subreddits "review this",  and "product reviews".
 
-4. Accessing Reddit Data with PRAW
+4. Accessing Reddit Data with PRAW: 
 Utilized the praw library in Python to access the Reddit API.
 
 ## Step 1: Load the Data
