@@ -14,7 +14,6 @@ Latent Dirichlet Allocation (LDA) is a generative statistical model that explain
 | **Content Recommendation**           | LDA can improve content recommendation systems by matching users' interests with topic distributions, enhancing the relevance of recommendations in systems like news feeds or product suggestions.                                   |
 | **Enhancing Information Retrieval**  | LDA can enhance information retrieval systems by allowing searches to be performed based on topics, which can provide more relevant results compared to keyword searches, especially when the exact keywords may not be known.       |
 
-
 ## Project Overview:    
 **Objective:** Discover the main topics from a collection of customer reviews.            
 **Method:** Latent Dirichlet Allocation (LDA) for topic modeling.                
